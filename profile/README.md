@@ -1,23 +1,23 @@
-# He there! We're IPL👋
+# Hi there! 👋
 
 ![Header Image](https://iplabs.ink/images/orgBanner.png)
 
-We're Inkling Performance Labs, an esport organisation creating tournaments for Splatoon. Our goal is to unite and grow the community by creating high quality Splatoon tournaments.
+We're Inkling Performance Labs, an esports organisation working to unite the community by creating high quality Splatoon tournaments.
 
-You can find more about us at our [website iplabs.ink](https://iplabs.ink)
+You can find more about us at our website: [iplabs.ink](https://iplabs.ink)
 
-## Our Github Page
+## Our GitHub Page
 
-Here on Github you'll find  IPL's open source projects that we use run our tournaments. For our mascot and Discord bot [Radia](https://github.com/IPLSplatoon/Radia) the our [Production Stack](https://github.com/IPLSplatoon/Radia-Productions) that's used in assisting our Twitch streams.
+Here, you'll find our open source projects that we use run our tournaments, like our mascot and Discord bot [Radia](https://github.com/IPLSplatoon/Radia) or our [Production Stack](https://github.com/IPLSplatoon/Radia-Productions) that we use on our livestreams.
 
-## Our other repos
+## Other repositories
 
-Some of our repos aren't here on our org page, but you can find them here.
+Below is a list of IPL related repositories not stored in this organization.
 
 - [IPL Overlay Controls](https://github.com/inkfarer/ipl-overlay-controls)
-- [Low Ink Overlays](https://github.com/inkfarer/low-ink-overlays)
-- [SOS Overlays](https://github.com/inkfarer/sos-overlays)
-- [Testing Grounds Overlays](https://github.com/inkfarer/ut-overlays)
-- [UT Overlays](https://github.com/inkfarer/ut-overlays)
-- [Checkpoint Overlays](https://github.com/inkfarer/checkpoint-overlays)
+- [Low Ink overlays](https://github.com/inkfarer/low-ink-overlays)
+- [SoS Overlays](https://github.com/inkfarer/sos-overlays)
+- [Testing Grounds overlays](https://github.com/inkfarer/ut-overlays)
+- [UT overlays](https://github.com/inkfarer/ut-overlays)
+- [Checkpoint overlays](https://github.com/inkfarer/checkpoint-overlays)
 
