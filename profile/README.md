@@ -15,6 +15,7 @@ Here, you'll find our open source projects that we use run our tournaments, like
 Below is a list of IPL related repositories not stored in this organization.
 
 - [IPL Overlay Controls](https://github.com/inkfarer/ipl-overlay-controls)
+- [Bitfocus Companion IPL-OCP Module](https://github.com/bitfocus/companion-module-ipl-ocp/tree/main)
 - [Low Ink overlays](https://github.com/inkfarer/low-ink-overlays)
 - [SoS Overlays](https://github.com/inkfarer/sos-overlays)
 - [Testing Grounds overlays](https://github.com/inkfarer/ut-overlays)
